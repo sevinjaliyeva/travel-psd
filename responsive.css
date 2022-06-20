@@ -1,0 +1,23 @@
+@media only screen and (max-width:992px){
+    .container{
+        max-width: 830px;
+    }
+}
+
+
+@media only screen and (max-width:768px){
+    .container{
+        max-width: 630px;
+    }
+
+
+    .header-body h1{
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width:576px){
+    .container{
+        max-width: 330px;
+    }
+}
